@@ -5,7 +5,7 @@
 
   <footer>
     <div class="link-bar">
-      <NuxtLink to="/">Home</NuxtLink>
+      <NuxtLink to="/">Dashboard</NuxtLink>
       <NuxtLink to="/about">About</NuxtLink>
     </div>
   </footer>
